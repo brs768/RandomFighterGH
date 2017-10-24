@@ -145,3 +145,6 @@ public class PlayerChar : MonoBehaviour
     }
 
 }
+
+
+//Githubtest
